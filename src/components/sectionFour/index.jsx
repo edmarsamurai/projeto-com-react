@@ -10,9 +10,9 @@ function SectionFour() {
     return (
         <C.Section>
             <C.Links>
-                <a href="">Sobre min</a>
-                <a href="">Atuações</a>
-                <a href="">Depoimentos</a>
+                <a href='#sobre'>Sobre min</a>
+                <a href='#atuacao'>Atuações</a>
+                <a href='#depoimentos'>Depoimentos</a>
             </C.Links>
 
             <C.Text>
